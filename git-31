@@ -1,0 +1,11 @@
+paso a paso git
+armo un repositorio,luego en la terminal hago git  clone al repo,tiro ls,muestra que esta el repo.luego entro con cd mas el nombre del repo,pongo code . entro a visual abro una carpeta nueva,luego voy a la terminal tiro ls tiene que estar nombre carpeta.
+cree en visual.
+si esta empieso a trabajar en studio
+depues arranco con los git
+git status
+git add 
+git commit -m "msaj"
+git push
+luego voy a github,verifico que eeste readme.
+
